@@ -1,1 +1,2 @@
-hibhhiuhiljhijbd hbsdj
+This is my first learning vim!
+I think it is intresting!
